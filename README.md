@@ -1,0 +1,2 @@
+# namora.cmg
+uma brincadeirinha
